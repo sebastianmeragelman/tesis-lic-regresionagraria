@@ -1,0 +1,273 @@
+,Dupla,Mejor_R2,Experimento_Mejor_R2,Menor_MSE,Experimento_Menor_MSE,Provincia,Cultivo,Modelo,Registros,Predictores
+46,Buenos Aires-Alpiste,0.5865262163872643,14,42534.18480579042,14,Buenos Aires,Alpiste,Lasso,55,90
+337,Buenos Aires-Cebada cervecera,0.68876002231647,14,197663.71518781484,14,Buenos Aires,Cebada cervecera,Elastic Net,55,90
+544,Buenos Aires-Centeno,0.7664486064042794,28,81153.0,25,Buenos Aires,Centeno,PLS,55,80
+614,Buenos Aires-Colza,0.2704575389577004,16,63993.73760251866,16,Buenos Aires,Colza,PLS,35,100
+845,Buenos Aires-Girasol,0.74527793655111,8,57604.20313914902,8,Buenos Aires,Girasol,Ridge,55,78
+1003,Buenos Aires-Lino,0.1322179374754135,10,14762.044052026644,10,Buenos Aires,Lino,PCR,37,713
+1414,Buenos Aires-Mijo,0.5006080449919676,28,53741.91253155852,28,Buenos Aires,Mijo,PLS,55,80
+1536,Buenos Aires-Poroto total,0.7046271453861014,29,64496.0,25,Buenos Aires,Poroto total,Lasso,17,80
+1714,Buenos Aires-Soja total,0.6865239321162393,18,106794.14078337332,18,Buenos Aires,Soja total,PLS,55,100
+1836,Buenos Aires-Sorgo,0.7402160230959174,30,103157.99725644494,30,Buenos Aires,Sorgo,Lasso,55,80
+2181,Corrientes-Algodón,0.2829121710705768,22,57708.75125974004,22,Corrientes,Algodón,Lasso,52,80
+2449,Corrientes-Arroz,0.924902641378166,15,152513.85028833302,15,Corrientes,Arroz,PLS,55,100
+2465,Corrientes-Avena,1.0,17,0.0,17,Corrientes,Avena,Ridge,20,88
+2466,Corrientes-Avena,1.0,17,0.0,17,Corrientes,Avena,Lasso,20,88
+2467,Corrientes-Avena,1.0,17,0.0,17,Corrientes,Avena,Elastic Net,20,88
+2468,Corrientes-Avena,1.0,17,0.0,17,Corrientes,Avena,PCR,20,88
+2469,Corrientes-Avena,1.0,17,0.0,17,Corrientes,Avena,PLS,20,88
+2470,Corrientes-Avena,1.0,17,0.0,17,Corrientes,Avena,Ridge,20,80
+2471,Corrientes-Avena,1.0,17,0.0,17,Corrientes,Avena,Lasso,20,80
+2472,Corrientes-Avena,1.0,17,0.0,17,Corrientes,Avena,Elastic Net,20,80
+2473,Corrientes-Avena,1.0,17,0.0,17,Corrientes,Avena,PCR,20,80
+2474,Corrientes-Avena,1.0,17,0.0,17,Corrientes,Avena,PLS,20,80
+2480,Corrientes-Avena,1.0,17,0.0,17,Corrientes,Avena,Ridge,20,100
+2481,Corrientes-Avena,1.0,17,0.0,17,Corrientes,Avena,Lasso,20,100
+2482,Corrientes-Avena,1.0,17,0.0,17,Corrientes,Avena,Elastic Net,20,100
+2483,Corrientes-Avena,1.0,17,0.0,17,Corrientes,Avena,PCR,20,100
+2484,Corrientes-Avena,1.0,17,0.0,17,Corrientes,Avena,PLS,20,100
+2485,Corrientes-Avena,1.0,17,0.0,17,Corrientes,Avena,Ridge,20,992
+2486,Corrientes-Avena,1.0,17,0.0,17,Corrientes,Avena,Lasso,20,992
+2487,Corrientes-Avena,1.0,17,0.0,17,Corrientes,Avena,Elastic Net,20,992
+2488,Corrientes-Avena,1.0,17,0.0,17,Corrientes,Avena,PCR,20,992
+2489,Corrientes-Avena,1.0,17,0.0,17,Corrientes,Avena,PLS,20,992
+2490,Corrientes-Avena,1.0,17,0.0,17,Corrientes,Avena,Ridge,20,698
+2491,Corrientes-Avena,1.0,17,0.0,17,Corrientes,Avena,Lasso,20,698
+2492,Corrientes-Avena,1.0,17,0.0,17,Corrientes,Avena,Elastic Net,20,698
+2493,Corrientes-Avena,1.0,17,0.0,17,Corrientes,Avena,PCR,20,698
+2494,Corrientes-Avena,1.0,17,0.0,17,Corrientes,Avena,PLS,20,698
+2495,Corrientes-Avena,1.0,17,0.0,17,Corrientes,Avena,Ridge,20,100
+2496,Corrientes-Avena,1.0,17,0.0,17,Corrientes,Avena,Lasso,20,100
+2497,Corrientes-Avena,1.0,17,0.0,17,Corrientes,Avena,Elastic Net,20,100
+2498,Corrientes-Avena,1.0,17,0.0,17,Corrientes,Avena,PCR,20,100
+2499,Corrientes-Avena,1.0,17,0.0,17,Corrientes,Avena,PLS,20,100
+2500,Corrientes-Avena,1.0,17,0.0,17,Corrientes,Avena,Ridge,20,80
+2501,Corrientes-Avena,1.0,17,0.0,17,Corrientes,Avena,Lasso,20,80
+2502,Corrientes-Avena,1.0,17,0.0,17,Corrientes,Avena,Elastic Net,20,80
+2503,Corrientes-Avena,1.0,17,0.0,17,Corrientes,Avena,PCR,20,80
+2504,Corrientes-Avena,1.0,17,0.0,17,Corrientes,Avena,PLS,20,80
+2505,Corrientes-Avena,1.0,17,0.0,17,Corrientes,Avena,Ridge,20,160
+2506,Corrientes-Avena,1.0,17,0.0,17,Corrientes,Avena,Lasso,20,160
+2507,Corrientes-Avena,1.0,17,0.0,17,Corrientes,Avena,Elastic Net,20,160
+2508,Corrientes-Avena,1.0,17,0.0,17,Corrientes,Avena,PCR,20,160
+2509,Corrientes-Avena,1.0,17,0.0,17,Corrientes,Avena,PLS,20,160
+2510,Corrientes-Avena,1.0,17,0.0,17,Corrientes,Avena,Ridge,20,90
+2511,Corrientes-Avena,1.0,17,0.0,17,Corrientes,Avena,Lasso,20,90
+2512,Corrientes-Avena,1.0,17,0.0,17,Corrientes,Avena,Elastic Net,20,90
+2513,Corrientes-Avena,1.0,17,0.0,17,Corrientes,Avena,PCR,20,90
+2514,Corrientes-Avena,1.0,17,0.0,17,Corrientes,Avena,PLS,20,90
+2545,Corrientes-Avena,1.0,17,0.0,17,Corrientes,Avena,Ridge,20,15
+2546,Corrientes-Avena,1.0,17,0.0,17,Corrientes,Avena,Lasso,20,15
+2547,Corrientes-Avena,1.0,17,0.0,17,Corrientes,Avena,Elastic Net,20,15
+2548,Corrientes-Avena,1.0,17,0.0,17,Corrientes,Avena,PCR,20,15
+2549,Corrientes-Avena,1.0,17,0.0,17,Corrientes,Avena,PLS,20,15
+2550,Corrientes-Avena,1.0,17,0.0,17,Corrientes,Avena,Ridge,20,80
+2551,Corrientes-Avena,1.0,17,0.0,17,Corrientes,Avena,Lasso,20,80
+2552,Corrientes-Avena,1.0,17,0.0,17,Corrientes,Avena,Elastic Net,20,80
+2553,Corrientes-Avena,1.0,17,0.0,17,Corrientes,Avena,PCR,20,80
+2554,Corrientes-Avena,1.0,17,0.0,17,Corrientes,Avena,PLS,20,80
+2555,Corrientes-Avena,1.0,17,0.0,17,Corrientes,Avena,Ridge,20,15
+2556,Corrientes-Avena,1.0,17,0.0,17,Corrientes,Avena,Lasso,20,15
+2557,Corrientes-Avena,1.0,17,0.0,17,Corrientes,Avena,Elastic Net,20,15
+2558,Corrientes-Avena,1.0,17,0.0,17,Corrientes,Avena,PCR,20,15
+2559,Corrientes-Avena,1.0,17,0.0,17,Corrientes,Avena,PLS,20,15
+2560,Corrientes-Avena,1.0,17,0.0,17,Corrientes,Avena,Ridge,20,80
+2561,Corrientes-Avena,1.0,17,0.0,17,Corrientes,Avena,Lasso,20,80
+2562,Corrientes-Avena,1.0,17,0.0,17,Corrientes,Avena,Elastic Net,20,80
+2563,Corrientes-Avena,1.0,17,0.0,17,Corrientes,Avena,PCR,20,80
+2564,Corrientes-Avena,1.0,17,0.0,17,Corrientes,Avena,PLS,20,80
+2570,Corrientes-Avena,1.0,17,0.0,17,Corrientes,Avena,Ridge,20,80
+2571,Corrientes-Avena,1.0,17,0.0,17,Corrientes,Avena,Lasso,20,80
+2572,Corrientes-Avena,1.0,17,0.0,17,Corrientes,Avena,Elastic Net,20,80
+2573,Corrientes-Avena,1.0,17,0.0,17,Corrientes,Avena,PCR,20,80
+2574,Corrientes-Avena,1.0,17,0.0,17,Corrientes,Avena,PLS,20,80
+2580,Corrientes-Avena,1.0,17,0.0,17,Corrientes,Avena,Ridge,20,100
+2581,Corrientes-Avena,1.0,17,0.0,17,Corrientes,Avena,Lasso,20,100
+2582,Corrientes-Avena,1.0,17,0.0,17,Corrientes,Avena,Elastic Net,20,100
+2583,Corrientes-Avena,1.0,17,0.0,17,Corrientes,Avena,PCR,20,100
+2584,Corrientes-Avena,1.0,17,0.0,17,Corrientes,Avena,PLS,20,100
+2585,Corrientes-Avena,1.0,17,0.0,17,Corrientes,Avena,Ridge,20,78
+2586,Corrientes-Avena,1.0,17,0.0,17,Corrientes,Avena,Lasso,20,78
+2587,Corrientes-Avena,1.0,17,0.0,17,Corrientes,Avena,Elastic Net,20,78
+2588,Corrientes-Avena,1.0,17,0.0,17,Corrientes,Avena,PCR,20,78
+2589,Corrientes-Avena,1.0,17,0.0,17,Corrientes,Avena,PLS,20,78
+2590,Corrientes-Avena,1.0,17,0.0,17,Corrientes,Avena,Ridge,20,100
+2591,Corrientes-Avena,1.0,17,0.0,17,Corrientes,Avena,Lasso,20,100
+2592,Corrientes-Avena,1.0,17,0.0,17,Corrientes,Avena,Elastic Net,20,100
+2593,Corrientes-Avena,1.0,17,0.0,17,Corrientes,Avena,PCR,20,100
+2594,Corrientes-Avena,1.0,17,0.0,17,Corrientes,Avena,PLS,20,100
+2595,Corrientes-Avena,1.0,17,0.0,17,Corrientes,Avena,Ridge,20,713
+2596,Corrientes-Avena,1.0,17,0.0,17,Corrientes,Avena,Lasso,20,713
+2597,Corrientes-Avena,1.0,17,0.0,17,Corrientes,Avena,Elastic Net,20,713
+2598,Corrientes-Avena,1.0,17,0.0,17,Corrientes,Avena,PCR,20,713
+2599,Corrientes-Avena,1.0,17,0.0,17,Corrientes,Avena,PLS,20,713
+2600,Corrientes-Avena,1.0,17,0.0,17,Corrientes,Avena,Ridge,20,190
+2601,Corrientes-Avena,1.0,17,0.0,17,Corrientes,Avena,Lasso,20,190
+2602,Corrientes-Avena,1.0,17,0.0,17,Corrientes,Avena,Elastic Net,20,190
+2603,Corrientes-Avena,1.0,17,0.0,17,Corrientes,Avena,PCR,20,190
+2604,Corrientes-Avena,1.0,17,0.0,17,Corrientes,Avena,PLS,20,190
+2605,Corrientes-Avena,1.0,17,0.0,17,Corrientes,Avena,Ridge,20,80
+2606,Corrientes-Avena,1.0,17,0.0,17,Corrientes,Avena,Lasso,20,80
+2607,Corrientes-Avena,1.0,17,0.0,17,Corrientes,Avena,Elastic Net,20,80
+2608,Corrientes-Avena,1.0,17,0.0,17,Corrientes,Avena,PCR,20,80
+2609,Corrientes-Avena,1.0,17,0.0,17,Corrientes,Avena,PLS,20,80
+2779,Corrientes-Lino,0.5564059977165692,9,5589.198174381894,9,Corrientes,Lino,PLS,26,992
+2904,Corrientes-Maní,0.4929274292612998,17,67280.95509372387,17,Corrientes,Maní,PLS,33,88
+3081,Corrientes-Maíz,0.7406094987764853,31,573228.5349604803,31,Corrientes,Maíz,Lasso,55,80
+3229,Corrientes-Soja total,-0.2124055718627755,31,185157.7773444224,31,Corrientes,Soja total,PLS,54,80
+3344,Corrientes-Sorgo,0.2855064331251224,22,282318.8587230183,22,Corrientes,Sorgo,PLS,53,80
+3488,Corrientes-Trigo total,0.3906658130764039,22,317711.6222419885,22,Corrientes,Trigo total,PCR,24,80
+3759,Corrientes-Yerba mate,0.7117360471070259,10,1272488.7750653815,10,Corrientes,Yerba mate,PLS,55,713
+3785,Córdoba-Algodón,0.8670808694876476,19,82632.56966709493,19,Córdoba,Algodón,Ridge,53,100
+4237,Córdoba-Cebada cervecera,0.3976221855763853,16,114876.70807455936,16,Córdoba,Cebada cervecera,Elastic Net,47,100
+4629,Córdoba-Colza,-0.2492279278745977,10,67669.8773470931,10,Córdoba,Colza,PLS,25,713
+4673,Córdoba-Girasol,0.8680857935219934,16,39305.021777380185,16,Córdoba,Girasol,PCR,55,100
+5049,Córdoba-Maní,0.6870017042072629,18,227091.2159512208,18,Córdoba,Maní,PLS,55,100
+5254,Córdoba-Mijo,0.5117201626097307,16,124828.15126472102,16,Córdoba,Mijo,PLS,55,100
+5491,Córdoba-Poroto total,0.4161046376648531,15,97868.9600531392,15,Córdoba,Poroto total,Lasso,51,100
+5634,Córdoba-Soja total,0.712893898083204,8,143319.62183365115,8,Córdoba,Soja total,PLS,53,78
+5929,Córdoba-Trigo total,0.7421170724719437,15,159334.79966013253,15,Córdoba,Trigo total,PLS,55,100
+5981,Entre Rios-Algodón,0.1212823213916556,31,172285.86074093613,31,Entre Rios,Algodón,Lasso,50,80
+6098,Entre Rios-Alpiste,0.3221205256816131,22,19594.079089994,22,Entre Rios,Alpiste,PCR,21,80
+6362,Entre Rios-Arroz,0.876067358450061,15,142446.73607221644,15,Entre Rios,Arroz,Elastic Net,55,100
+6404,Entre Rios-Avena,0.6488017873706208,9,116659.24015798292,9,Entre Rios,Avena,PLS,55,992
+6525,Entre Rios-Centeno,0.0,17,288664.38499632635,31,Entre Rios,Centeno,Ridge,11,88
+6526,Entre Rios-Centeno,0.0,17,288664.38499632635,31,Entre Rios,Centeno,Lasso,11,88
+6527,Entre Rios-Centeno,0.0,17,288664.38499632635,31,Entre Rios,Centeno,Elastic Net,11,88
+6528,Entre Rios-Centeno,0.0,17,288664.38499632635,31,Entre Rios,Centeno,PCR,11,88
+6529,Entre Rios-Centeno,0.0,17,288664.38499632635,31,Entre Rios,Centeno,PLS,11,88
+6530,Entre Rios-Centeno,0.0,17,288664.38499632635,31,Entre Rios,Centeno,Ridge,11,80
+6531,Entre Rios-Centeno,0.0,17,288664.38499632635,31,Entre Rios,Centeno,Lasso,11,80
+6532,Entre Rios-Centeno,0.0,17,288664.38499632635,31,Entre Rios,Centeno,Elastic Net,11,80
+6533,Entre Rios-Centeno,0.0,17,288664.38499632635,31,Entre Rios,Centeno,PCR,11,80
+6534,Entre Rios-Centeno,0.0,17,288664.38499632635,31,Entre Rios,Centeno,PLS,11,80
+6540,Entre Rios-Centeno,0.0,17,288664.38499632635,31,Entre Rios,Centeno,Ridge,11,100
+6541,Entre Rios-Centeno,0.0,17,288664.38499632635,31,Entre Rios,Centeno,Lasso,11,100
+6542,Entre Rios-Centeno,0.0,17,288664.38499632635,31,Entre Rios,Centeno,Elastic Net,11,100
+6543,Entre Rios-Centeno,0.0,17,288664.38499632635,31,Entre Rios,Centeno,PCR,11,100
+6544,Entre Rios-Centeno,0.0,17,288664.38499632635,31,Entre Rios,Centeno,PLS,11,100
+6545,Entre Rios-Centeno,0.0,17,288664.38499632635,31,Entre Rios,Centeno,Ridge,11,992
+6546,Entre Rios-Centeno,0.0,17,288664.38499632635,31,Entre Rios,Centeno,Lasso,11,992
+6547,Entre Rios-Centeno,0.0,17,288664.38499632635,31,Entre Rios,Centeno,Elastic Net,11,992
+6548,Entre Rios-Centeno,0.0,17,288664.38499632635,31,Entre Rios,Centeno,PCR,11,992
+6549,Entre Rios-Centeno,0.0,17,288664.38499632635,31,Entre Rios,Centeno,PLS,11,992
+6550,Entre Rios-Centeno,0.0,17,288664.38499632635,31,Entre Rios,Centeno,Ridge,11,698
+6551,Entre Rios-Centeno,0.0,17,288664.38499632635,31,Entre Rios,Centeno,Lasso,11,698
+6552,Entre Rios-Centeno,0.0,17,288664.38499632635,31,Entre Rios,Centeno,Elastic Net,11,698
+6553,Entre Rios-Centeno,0.0,17,288664.38499632635,31,Entre Rios,Centeno,PCR,11,698
+6554,Entre Rios-Centeno,0.0,17,288664.38499632635,31,Entre Rios,Centeno,PLS,11,698
+6555,Entre Rios-Centeno,0.0,17,288664.38499632635,31,Entre Rios,Centeno,Ridge,11,100
+6556,Entre Rios-Centeno,0.0,17,288664.38499632635,31,Entre Rios,Centeno,Lasso,11,100
+6557,Entre Rios-Centeno,0.0,17,288664.38499632635,31,Entre Rios,Centeno,Elastic Net,11,100
+6558,Entre Rios-Centeno,0.0,17,288664.38499632635,31,Entre Rios,Centeno,PCR,11,100
+6559,Entre Rios-Centeno,0.0,17,288664.38499632635,31,Entre Rios,Centeno,PLS,11,100
+6560,Entre Rios-Centeno,0.0,17,288664.38499632635,31,Entre Rios,Centeno,Ridge,11,80
+6561,Entre Rios-Centeno,0.0,17,288664.38499632635,31,Entre Rios,Centeno,Lasso,11,80
+6562,Entre Rios-Centeno,0.0,17,288664.38499632635,31,Entre Rios,Centeno,Elastic Net,11,80
+6563,Entre Rios-Centeno,0.0,17,288664.38499632635,31,Entre Rios,Centeno,PCR,11,80
+6564,Entre Rios-Centeno,0.0,17,288664.38499632635,31,Entre Rios,Centeno,PLS,11,80
+6565,Entre Rios-Centeno,0.0,17,288664.38499632635,31,Entre Rios,Centeno,Ridge,11,160
+6566,Entre Rios-Centeno,0.0,17,288664.38499632635,31,Entre Rios,Centeno,Lasso,11,160
+6567,Entre Rios-Centeno,0.0,17,288664.38499632635,31,Entre Rios,Centeno,Elastic Net,11,160
+6568,Entre Rios-Centeno,0.0,17,288664.38499632635,31,Entre Rios,Centeno,PCR,11,160
+6569,Entre Rios-Centeno,0.0,17,288664.38499632635,31,Entre Rios,Centeno,PLS,11,160
+6570,Entre Rios-Centeno,0.0,17,288664.38499632635,31,Entre Rios,Centeno,Ridge,11,90
+6571,Entre Rios-Centeno,0.0,17,288664.38499632635,31,Entre Rios,Centeno,Lasso,11,90
+6572,Entre Rios-Centeno,0.0,17,288664.38499632635,31,Entre Rios,Centeno,Elastic Net,11,90
+6573,Entre Rios-Centeno,0.0,17,288664.38499632635,31,Entre Rios,Centeno,PCR,11,90
+6574,Entre Rios-Centeno,0.0,17,288664.38499632635,31,Entre Rios,Centeno,PLS,11,90
+6605,Entre Rios-Centeno,0.0,17,288664.38499632635,31,Entre Rios,Centeno,Ridge,11,15
+6606,Entre Rios-Centeno,0.0,17,288664.38499632635,31,Entre Rios,Centeno,Lasso,11,15
+6607,Entre Rios-Centeno,0.0,17,288664.38499632635,31,Entre Rios,Centeno,Elastic Net,11,15
+6608,Entre Rios-Centeno,0.0,17,288664.38499632635,31,Entre Rios,Centeno,PCR,11,15
+6609,Entre Rios-Centeno,0.0,17,288664.38499632635,31,Entre Rios,Centeno,PLS,11,15
+6610,Entre Rios-Centeno,0.0,17,288664.38499632635,31,Entre Rios,Centeno,Ridge,11,80
+6611,Entre Rios-Centeno,0.0,17,288664.38499632635,31,Entre Rios,Centeno,Lasso,11,80
+6612,Entre Rios-Centeno,0.0,17,288664.38499632635,31,Entre Rios,Centeno,Elastic Net,11,80
+6613,Entre Rios-Centeno,0.0,17,288664.38499632635,31,Entre Rios,Centeno,PCR,11,80
+6614,Entre Rios-Centeno,0.0,17,288664.38499632635,31,Entre Rios,Centeno,PLS,11,80
+6615,Entre Rios-Centeno,0.0,17,288664.38499632635,31,Entre Rios,Centeno,Ridge,11,15
+6616,Entre Rios-Centeno,0.0,17,288664.38499632635,31,Entre Rios,Centeno,Lasso,11,15
+6617,Entre Rios-Centeno,0.0,17,288664.38499632635,31,Entre Rios,Centeno,Elastic Net,11,15
+6618,Entre Rios-Centeno,0.0,17,288664.38499632635,31,Entre Rios,Centeno,PCR,11,15
+6619,Entre Rios-Centeno,0.0,17,288664.38499632635,31,Entre Rios,Centeno,PLS,11,15
+6620,Entre Rios-Centeno,0.0,17,288664.38499632635,31,Entre Rios,Centeno,Ridge,11,80
+6621,Entre Rios-Centeno,0.0,17,288664.38499632635,31,Entre Rios,Centeno,Lasso,11,80
+6622,Entre Rios-Centeno,0.0,17,288664.38499632635,31,Entre Rios,Centeno,Elastic Net,11,80
+6623,Entre Rios-Centeno,0.0,17,288664.38499632635,31,Entre Rios,Centeno,PCR,11,80
+6624,Entre Rios-Centeno,0.0,17,288664.38499632635,31,Entre Rios,Centeno,PLS,11,80
+6630,Entre Rios-Centeno,0.0,17,288664.38499632635,31,Entre Rios,Centeno,Ridge,11,80
+6631,Entre Rios-Centeno,0.0,17,288664.38499632635,31,Entre Rios,Centeno,Lasso,11,80
+6632,Entre Rios-Centeno,0.0,17,288664.38499632635,31,Entre Rios,Centeno,Elastic Net,11,80
+6633,Entre Rios-Centeno,0.0,17,288664.38499632635,31,Entre Rios,Centeno,PCR,11,80
+6634,Entre Rios-Centeno,0.0,17,288664.38499632635,31,Entre Rios,Centeno,PLS,11,80
+6640,Entre Rios-Centeno,0.0,17,288664.38499632635,31,Entre Rios,Centeno,Ridge,11,100
+6641,Entre Rios-Centeno,0.0,17,288664.38499632635,31,Entre Rios,Centeno,Lasso,11,100
+6642,Entre Rios-Centeno,0.0,17,288664.38499632635,31,Entre Rios,Centeno,Elastic Net,11,100
+6643,Entre Rios-Centeno,0.0,17,288664.38499632635,31,Entre Rios,Centeno,PCR,11,100
+6644,Entre Rios-Centeno,0.0,17,288664.38499632635,31,Entre Rios,Centeno,PLS,11,100
+6645,Entre Rios-Centeno,0.0,17,288664.38499632635,31,Entre Rios,Centeno,Ridge,11,78
+6646,Entre Rios-Centeno,0.0,17,288664.38499632635,31,Entre Rios,Centeno,Lasso,11,78
+6647,Entre Rios-Centeno,0.0,17,288664.38499632635,31,Entre Rios,Centeno,Elastic Net,11,78
+6648,Entre Rios-Centeno,0.0,17,288664.38499632635,31,Entre Rios,Centeno,PCR,11,78
+6649,Entre Rios-Centeno,0.0,17,288664.38499632635,31,Entre Rios,Centeno,PLS,11,78
+6650,Entre Rios-Centeno,0.0,17,288664.38499632635,31,Entre Rios,Centeno,Ridge,11,100
+6651,Entre Rios-Centeno,0.0,17,288664.38499632635,31,Entre Rios,Centeno,Lasso,11,100
+6652,Entre Rios-Centeno,0.0,17,288664.38499632635,31,Entre Rios,Centeno,Elastic Net,11,100
+6653,Entre Rios-Centeno,0.0,17,288664.38499632635,31,Entre Rios,Centeno,PCR,11,100
+6654,Entre Rios-Centeno,0.0,17,288664.38499632635,31,Entre Rios,Centeno,PLS,11,100
+6655,Entre Rios-Centeno,0.0,17,288664.38499632635,31,Entre Rios,Centeno,Ridge,11,713
+6656,Entre Rios-Centeno,0.0,17,288664.38499632635,31,Entre Rios,Centeno,Lasso,11,713
+6657,Entre Rios-Centeno,0.0,17,288664.38499632635,31,Entre Rios,Centeno,Elastic Net,11,713
+6658,Entre Rios-Centeno,0.0,17,288664.38499632635,31,Entre Rios,Centeno,PCR,11,713
+6659,Entre Rios-Centeno,0.0,17,288664.38499632635,31,Entre Rios,Centeno,PLS,11,713
+6660,Entre Rios-Centeno,0.0,17,288664.38499632635,31,Entre Rios,Centeno,Ridge,11,190
+6661,Entre Rios-Centeno,0.0,17,288664.38499632635,31,Entre Rios,Centeno,Lasso,11,190
+6662,Entre Rios-Centeno,0.0,17,288664.38499632635,31,Entre Rios,Centeno,Elastic Net,11,190
+6663,Entre Rios-Centeno,0.0,17,288664.38499632635,31,Entre Rios,Centeno,PCR,11,190
+6664,Entre Rios-Centeno,0.0,17,288664.38499632635,31,Entre Rios,Centeno,PLS,11,190
+6665,Entre Rios-Centeno,0.0,17,288664.38499632635,31,Entre Rios,Centeno,Ridge,11,80
+6666,Entre Rios-Centeno,0.0,17,288664.38499632635,31,Entre Rios,Centeno,Lasso,11,80
+6667,Entre Rios-Centeno,0.0,17,288664.38499632635,31,Entre Rios,Centeno,Elastic Net,11,80
+6668,Entre Rios-Centeno,0.0,17,288664.38499632635,31,Entre Rios,Centeno,PCR,11,80
+6669,Entre Rios-Centeno,0.0,17,288664.38499632635,31,Entre Rios,Centeno,PLS,11,80
+6833,Entre Rios-Girasol,0.8144842630317007,19,38328.6060909319,19,Entre Rios,Girasol,PCR,55,100
+6981,Entre Rios-Lino,0.6792601099047058,9,19004.946498675607,9,Entre Rios,Lino,Lasso,55,992
+7137,Entre Rios-Maíz,0.8266502360574679,16,832497.4220781577,16,Entre Rios,Maíz,Elastic Net,55,100
+7510,Entre Rios-Sorgo,0.8702877172051704,18,206378.14008343287,18,Entre Rios,Sorgo,Ridge,55,100
+7564,Entre Rios-Trigo total,0.5336053864376114,9,445707.8308033655,9,Entre Rios,Trigo total,PLS,55,992
+7862,La Pampa-Avena,0.6926016936349225,16,42282.4896925679,16,La Pampa,Avena,Elastic Net,55,100
+8019,La Pampa-Cebada cervecera,0.5317029248458018,20,165032.04590465938,20,La Pampa,Cebada cervecera,PLS,55,160
+8209,La Pampa-Centeno,0.2764349855047335,29,138568.0,25,La Pampa,Centeno,PLS,55,80
+8383,La Pampa-Colza,0.5274291933757995,18,46676.52742648222,18,La Pampa,Colza,PCR,18,100
+8434,La Pampa-Girasol,0.5710483985676673,9,97691.96887915336,9,La Pampa,Girasol,PLS,55,992
+8638,La Pampa-Lino,0.1154902451799954,13,24807.96794201373,13,La Pampa,Lino,PCR,27,15
+8648,La Pampa-Lino,0.1154902451799954,13,24807.96794201373,13,La Pampa,Lino,PCR,27,15
+8789,La Pampa-Maní,-0.5465738257810031,29,313703.0,25,La Pampa,Maní,PLS,18,80
+8869,La Pampa-Maíz,0.6530153443543407,9,1469208.1986301166,9,La Pampa,Maíz,PLS,55,992
+9107,La Pampa-Mijo,0.6220687215654837,18,65301.78359380953,18,La Pampa,Mijo,Elastic Net,55,100
+9169,La Pampa-Soja total,0.4655472697990954,16,212068.12489279496,16,La Pampa,Soja total,PLS,45,100
+9364,La Pampa-Sorgo,0.5606248033035519,13,134873.44271392043,13,La Pampa,Sorgo,PLS,55,15
+9374,La Pampa-Sorgo,0.5606248033035519,13,134873.44271392043,13,La Pampa,Sorgo,PLS,55,15
+9609,Misiones-Algodón,0.5074555599543961,31,24393.454379878145,31,Misiones,Algodón,PLS,31,80
+9884,Misiones-Avena,0.8237537933422768,9,53339.504475306654,9,Misiones,Avena,PLS,13,992
+10123,Misiones-Maní,0.6689153532002455,18,9594.223868506771,18,Misiones,Maní,PCR,21,100
+10376,Misiones-Poroto total,-0.4522205993776529,13,121820.69482316614,13,Misiones,Poroto total,Lasso,28,15
+10386,Misiones-Poroto total,-0.4522205993776529,13,121820.69482316614,13,Misiones,Poroto total,Lasso,28,15
+10464,Misiones-Soja total,0.3838606926274893,9,238899.6654546489,9,Misiones,Soja total,PLS,55,992
+10588,Misiones-Sorgo,0.458209241900642,17,1179211.7500197054,17,Misiones,Sorgo,PCR,17,88
+10762,Misiones-Yerba mate,0.7653085191813624,16,334448.3516007611,16,Misiones,Yerba mate,Elastic Net,55,100
+10958,Santa Fe-Algodón,0.2535434589780315,13,69382.72832987868,13,Santa Fe,Algodón,PCR,55,15
+10968,Santa Fe-Algodón,0.2535434589780315,13,69382.72832987868,13,Santa Fe,Algodón,PCR,55,15
+11042,Santa Fe-Alpiste,0.6897799187651951,9,5336.242110136018,9,Santa Fe,Alpiste,Elastic Net,27,992
+11286,Santa Fe-Arroz,0.7706972173159444,8,432977.0945213125,8,Santa Fe,Arroz,Lasso,54,78
+11438,Santa Fe-Avena,0.4109530198316035,15,413227.6046673416,15,Santa Fe,Avena,PCR,55,100
+11500,Santa Fe-Cebada cervecera,0.466573487013025,14,547568.1612303547,14,Santa Fe,Cebada cervecera,Ridge,55,90
+11684,Santa Fe-Centeno,0.5254537828333682,13,276663.9369717133,13,Santa Fe,Centeno,PLS,38,15
+11694,Santa Fe-Centeno,0.5254537828333682,13,276663.9369717133,13,Santa Fe,Centeno,PLS,38,15
+12038,Santa Fe-Lino,0.051720547433624,17,21557.15484511528,17,Santa Fe,Lino,PCR,43,88
+12296,Santa Fe-Maní,0.7716083259605393,18,145735.34258005605,18,Santa Fe,Maní,Lasso,38,100
+12449,Santa Fe-Maíz,0.647072344289568,8,1707549.587658716,8,Santa Fe,Maíz,PLS,55,78
+12492,Santa Fe-Mijo,0.6357764115491564,9,18384.80257721636,9,Santa Fe,Mijo,Elastic Net,33,992
+12615,Santa Fe-Soja total,0.5573251593873312,17,243132.78315219143,17,Santa Fe,Soja total,Ridge,55,88
+12779,Santa Fe-Sorgo,0.4498767179471963,19,634214.9087166719,19,Santa Fe,Sorgo,PLS,54,100
