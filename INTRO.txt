@@ -1,0 +1,41 @@
+PROYECTO DE ANALISIS DE VARIACION DE PRODUCTO COSECHADO EN ARGENTINA Y VINCULACION CON LA VARIACION DE LOS FENOMENOS CLIMATICOS Y EMISIONES DE GASES A NIVEL ARGENTINA, REGION, MUNDO, POSIBLE PREDICCION DE COMPORTAMIENTO
+
+
+DATASET DE 
+https://datos.magyp.gob.ar/dataset?page=8
+
+sET DE DATOS DE USO DE AGROQUIMICO
+https://statistics.cepal.org/portal/cepalstat/dashboard.html?indicator_id=2038&area_id=696&lang=es
+
+sET DE DATOS USO FERTILIZANTES
+https://www.ciafa.org.ar/info-fertilizantes-mercado
+
+SET DE DATOS SIEMBRA
+https://datosestimaciones.magyp.gob.ar/reportes.php?reporte=Estimaciones
+
+
+---------------------------------
+
+La metodologia de la investigacion inicia bajo el considerando de que es posible establecer una correlacion entre la variacion del cultivo en argentina y los factores climaticos provocados por el cambio climatico.
+
+Para poder desarrollar el analisis comenzare realizando una busqueda por internet de fuentes de datos confiables que tengan registros sobre el clima historico, considerando insolacion, lluvias, temperaturas, asi como tambien registros sobre las cosechas historicas.
+De esta forma la intencion es establecer las variaciones atipicas en los parametros climaticos que pudieran influir en los cultivos, y ver correlacion entre estas con la produccion obtenida, a su vez como la tecnologia tomo parte en la produccion se evaluara la variacion de consumo de pesticidas y fertilizantes , la variacion en la cantidad de hectareas sembradas, y como final se buscara identificar una tendencia para los proximos años.
+
+Se realizo una busqueda entre los principales organismos publicos entre los cuales tenemos
+Servicio Meteorologico Nacional
+El portal ofrece registros meteorologicos segmentados en :
+Ultimo año, observaciones diarias de temperaturas extremas (cobertura del 2018 al 2021), Pronostico a 5 dias,datos meteorologicos horarios (cobertura del 2018 al 2021), estadisticas climaticas normales (cobertura 1981 a 2020).
+Por la busqueda que realizamos los datos mas prometedores pasan a ser estos, si bien nuestra intencion seria poder analizar registros anomalos dentro de las medias para poder entender eventos particulares que se sucedieron para poder modificar el rinde de una cosecha, es decir, un fenomeno meteorologico extremo puede arruinar una cosecha sin modificar ampliamente la media en los registros climaticos (una lluvia de gran magnitud o granizo pueden destruir una cosecha completa sin presentar una desviacion notable en la media de las metricas mensuales, lo que no podria ser observable en estos registros)
+
+
+
+INTA
+Desde el portal de https://siga.inta.gob.ar/ se puede realizar una descarga segmentada por estacion meteorologica de la argentina.
+
+CONICET
+Utilizando terminos como (lluvia,precipitaciones,tormentas,insolacion) no se pudo obtener datos de utilidad, algunos estaban restringidos, otros estaban muy segmentados para un territorio o fecha especifica, y en muchos casos no hay datos relevantes para nuestro estudio
+
+Banco Mundial
+Para destacar varios informes subidos por el Banco Mundial no parecen tener sentido por lo cual se utilizaron solo aquellos que por entrecruzamiento de datos se pudo validar parcialmente la informacion. Para dar un ejemplo el Banco Mundial (https://datos.bancomundial.org/) entre los indicadores disponibles tiene un promedio detallado de precipitaciones (https://datos.bancomundial.org/indicador/AG.LND.PRCP.MM?locations=AR) el cual en un periodo superior a 30 años no vario en ningun momento, lo cual claramente es un error de registro y seria recomendable que lo eliminaran.
+
+Usando modelos de LLM con acceso a internet se recomendo buscar en portales privados como meteoblue, donde vemos que la informacion no se genera por medio de mediciones sino por simulaciones, lo cual pierde el sentido de la investigacion

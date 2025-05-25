@@ -1,0 +1,21 @@
+# Checkpoints y temporales de Jupyter
+.ipynb_checkpoints/
+*.pyc
+__pycache__/
+
+# Archivos ocultos de sistema
+.DS_Store
+
+# Entornos virtuales (si usás uno)
+env/
+venv/
+.venv/
+
+*.pdf
+*.zip
+*.ZIP
+*.csv
+*.xlsx
+*.h5
+*.pkl
+

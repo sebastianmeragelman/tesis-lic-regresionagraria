@@ -22,3 +22,4 @@ Con el EDA realizado se procesarán los documentos incluyendo limpieza, creació
 Obtendremos los primeros resultados preliminares para obtener una hipótesis del comportamiento de los datos y con esto comenzaremos a modelar los datos para poder diseñar los experimentos que sean necesarios para evaluar la veracidad de la hipótesis planteada.
 
 Posterior al desarrollo, puesta a prueba y obtención de las métricas de los experimentos podremos obtener ya resultados finales para desarrollar las conclusiones de la investigación.
+
